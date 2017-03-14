@@ -1,4 +1,4 @@
-<?php 
+<?php
 
 echo "Hello world!";
 
@@ -10,4 +10,6 @@ echo "quatro";
 
 if (true) {
 	// code here
+
+	// begin code
 }
