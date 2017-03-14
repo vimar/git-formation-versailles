@@ -7,3 +7,7 @@ echo "bis";
 echo "ter";
 
 echo "quatro";
+
+if (true) {
+	// code here
+}
